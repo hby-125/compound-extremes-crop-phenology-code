@@ -3,15 +3,15 @@ message: "If you use this code, please cite the following paper and code archive
 title: "Compound climate extremes reshape staple-crop phenology and cropping-system turnaround windows across China"
 type: software
 authors:
-  - given-names: Dingyu
-    family-names: Liu
+  - given-names: Baoyang
+    family-names: Han
     # Add all co-authors here
     # - given-names: ...
     #   family-names: ...
     #   orcid: ...
-repository-code: "https://doi.org/10.5281/zenodo.yyyyyyy"
-url: "https://doi.org/10.5281/zenodo.yyyyyyy"
-doi: "10.5281/zenodo.yyyyyyy"
+repository-code: "https://doi.org/10.5281/zenodo.21180009"
+url: "https://doi.org/10.5281/zenodo.21180009"
+doi: "10.5281/zenodo.21180009"
 license: MIT
 version: "v1.0"
 date-released: "2026-07-04"
