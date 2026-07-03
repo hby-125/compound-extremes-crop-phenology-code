@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the following paper and code archive."
+title: "Compound climate extremes reshape staple-crop phenology and cropping-system turnaround windows across China"
+type: software
+authors:
+  - given-names: Dingyu
+    family-names: Liu
+    # Add all co-authors here
+    # - given-names: ...
+    #   family-names: ...
+    #   orcid: ...
+repository-code: "https://doi.org/10.5281/zenodo.yyyyyyy"
+url: "https://doi.org/10.5281/zenodo.yyyyyyy"
+doi: "10.5281/zenodo.yyyyyyy"
+license: MIT
+version: "v1.0"
+date-released: "2026-07-04"
+keywords:
+  - "crop phenology"
+  - "compound climate extremes"
+  - "ERA5-Land"
+  - "China"
+  - "panel regression"
+  - "climate adaptation"
+references:
+  - type: dataset
+    title: "Data for Compound climate extremes reshape staple-crop phenology and cropping-system turnaround windows across China"
+    doi: "10.5281/zenodo.21177297"
+    url: "https://doi.org/10.5281/zenodo.21177297"

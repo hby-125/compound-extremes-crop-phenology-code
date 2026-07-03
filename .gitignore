@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Outputs (generated files)
+outputs/tables/
+outputs/figures/
+outputs/source_data/
+
+# Data (large input files; download from Zenodo)
+data/04_Grid_Panels/*.csv
+data/05_Climate_Data/*.npz
+data/*.csv
+data/*.parquet
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Conda
+.pixi/

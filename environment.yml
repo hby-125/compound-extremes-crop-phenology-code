@@ -1,0 +1,19 @@
+name: compound-extremes-phenology
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.10
+  - pandas>=1.5
+  - numpy>=1.23
+  - scipy>=1.9
+  - pyarrow>=10.0
+  - matplotlib>=3.6
+  - statsmodels>=0.13
+  - openpyxl>=3.0
+  - pyproj>=3.4
+  - h5py>=3.7
+  - netcdf4>=1.6
+  - pip
+  - pip:
+    - pyfixest>=0.1
